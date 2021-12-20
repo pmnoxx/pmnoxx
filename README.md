@@ -1,7 +1,7 @@
 I like to make stuff work in Rust 🦀.
 
 I constributed to, for example:
-- [deepsize] https://github.com/Aeledfyr/deepsize
+- [deepsize](https://github.com/Aeledfyr/deepsize)
 
 <!--
 ### Hi there 👋
