@@ -1,6 +1,7 @@
 I like to make stuff work in Rust 🦀.
 
 I constributed to, for example:
+- [clippy](https://github.com/rust-lang/rust-clippy/pull/8163)
 - [deepsize](https://github.com/Aeledfyr/deepsize)
 
 <!--
