@@ -1,5 +1,8 @@
 I like to make stuff work in Rust 🦀.
 
+I created following repos:
+- [rust-memory-analyzer](https://github.com/near/near-memory-tracker) - tools used to investigate memory usage in Rust code.
+
 I constributed to, for example:
 - [clippy](https://github.com/rust-lang/rust-clippy/pull/8163)
 - [deepsize](https://github.com/Aeledfyr/deepsize/pulls?q=is%3Apr+author%3Apmnoxx)
