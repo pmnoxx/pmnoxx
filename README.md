@@ -1,6 +1,7 @@
 I like to make stuff work in Rust 🦀.
 
 I created following repos:
+- [projected-hash-map](https://github.com/pmnoxx/projected-hash-map) - implementation of projected hash map over hash set.
 - [rust-memory-analyzer](https://github.com/near/near-memory-tracker) - tool used to investigate memory usage in Rust code.
 
 I constributed to, for example:
